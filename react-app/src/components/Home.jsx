@@ -32,7 +32,7 @@ function Home() {
                 }
             })
             .catch((err) => {
-                alert('Server Err.')
+                alert('Gaurav Server Err.')
             })
     }, [])
 
